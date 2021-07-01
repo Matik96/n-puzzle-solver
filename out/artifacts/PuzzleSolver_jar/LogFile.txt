@@ -1,0 +1,8 @@
+Puzzle size : 2 x 2
+Algorithm name: HillClimb
+Heuristic name: Hamming
+Number of steps: 6
+Nodes explored: 9
+Time spent: 0 (ms)
+Found path: true
+--------------------------------- 

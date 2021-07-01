@@ -1,0 +1,272 @@
+Puzzle size : 3 x 3
+Algorithm name: HillClimb
+Heuristic name: Hamming
+Number of steps: 138
+Nodes explored: 332
+Time spent: 36 (ms)
+Found path: true
+--------------------------------- 
+Puzzle size : 3 x 3
+Algorithm name: BestFirst
+Heuristic name: Hamming
+Number of steps: 98
+Nodes explored: 585
+Time spent: 57 (ms)
+Found path: true
+--------------------------------- 
+Puzzle size : 3 x 3
+Algorithm name: HillClimb
+Heuristic name: Hamming
+Number of steps: 94
+Nodes explored: 1096
+Time spent: 90 (ms)
+Found path: true
+--------------------------------- 
+Puzzle size : 3 x 3
+Algorithm name: BestFirst
+Heuristic name: Hamming
+Number of steps: 38
+Nodes explored: 208
+Time spent: 20 (ms)
+Found path: true
+--------------------------------- 
+Puzzle size : 3 x 3
+Algorithm name: HillClimb
+Heuristic name: Hamming
+Number of steps: 200
+Nodes explored: 720
+Time spent: 57 (ms)
+Found path: true
+--------------------------------- 
+Puzzle size : 3 x 3
+Algorithm name: BestFirst
+Heuristic name: Hamming
+Number of steps: 42
+Nodes explored: 168
+Time spent: 17 (ms)
+Found path: true
+--------------------------------- 
+Puzzle size : 3 x 3
+Algorithm name: HillClimb
+Heuristic name: Hamming
+Number of steps: 76
+Nodes explored: 500
+Time spent: 40 (ms)
+Found path: true
+--------------------------------- 
+Puzzle size : 3 x 3
+Algorithm name: BestFirst
+Heuristic name: Hamming
+Number of steps: 56
+Nodes explored: 268
+Time spent: 24 (ms)
+Found path: true
+--------------------------------- 
+Puzzle size : 3 x 3
+Algorithm name: HillClimb
+Heuristic name: Hamming
+Number of steps: 54
+Nodes explored: 123
+Time spent: 15 (ms)
+Found path: true
+--------------------------------- 
+Puzzle size : 3 x 3
+Algorithm name: BestFirst
+Heuristic name: Hamming
+Number of steps: 120
+Nodes explored: 1357
+Time spent: 121 (ms)
+Found path: true
+--------------------------------- 
+Puzzle size : 4 x 4
+Algorithm name: HillClimb
+Heuristic name: Hamming
+Number of steps: 326
+Nodes explored: 16365
+Time spent: 2033 (ms)
+Found path: true
+--------------------------------- 
+Puzzle size : 4 x 4
+Algorithm name: BestFirst
+Heuristic name: Hamming
+Number of steps: 346
+Nodes explored: 13723
+Time spent: 2052 (ms)
+Found path: true
+--------------------------------- 
+Puzzle size : 4 x 4
+Algorithm name: HillClimb
+Heuristic name: Hamming
+Number of steps: 646
+Nodes explored: 17785
+Time spent: 2158 (ms)
+Found path: true
+--------------------------------- 
+Puzzle size : 4 x 4
+Algorithm name: BestFirst
+Heuristic name: Hamming
+Number of steps: 276
+Nodes explored: 4641
+Time spent: 695 (ms)
+Found path: true
+--------------------------------- 
+Puzzle size : 4 x 4
+Algorithm name: HillClimb
+Heuristic name: Hamming
+Number of steps: 292
+Nodes explored: 2939
+Time spent: 351 (ms)
+Found path: true
+--------------------------------- 
+Puzzle size : 4 x 4
+Algorithm name: BestFirst
+Heuristic name: Hamming
+Number of steps: 362
+Nodes explored: 19158
+Time spent: 2842 (ms)
+Found path: true
+--------------------------------- 
+Puzzle size : 3 x 3
+Algorithm name: HillClimb
+Heuristic name: Manhatten
+Number of steps: 108
+Nodes explored: 232
+Time spent: 21 (ms)
+Found path: true
+--------------------------------- 
+Puzzle size : 3 x 3
+Algorithm name: BestFirst
+Heuristic name: Manhatten
+Number of steps: 38
+Nodes explored: 103
+Time spent: 11 (ms)
+Found path: true
+--------------------------------- 
+Puzzle size : 3 x 3
+Algorithm name: HillClimb
+Heuristic name: Manhatten
+Number of steps: 80
+Nodes explored: 379
+Time spent: 38 (ms)
+Found path: true
+--------------------------------- 
+Puzzle size : 3 x 3
+Algorithm name: BestFirst
+Heuristic name: Manhatten
+Number of steps: 64
+Nodes explored: 259
+Time spent: 25 (ms)
+Found path: true
+--------------------------------- 
+Puzzle size : 3 x 3
+Algorithm name: HillClimb
+Heuristic name: Manhatten
+Number of steps: 128
+Nodes explored: 312
+Time spent: 41 (ms)
+Found path: true
+--------------------------------- 
+Puzzle size : 3 x 3
+Algorithm name: BestFirst
+Heuristic name: Manhatten
+Number of steps: 58
+Nodes explored: 322
+Time spent: 38 (ms)
+Found path: true
+--------------------------------- 
+Puzzle size : 3 x 3
+Algorithm name: HillClimb
+Heuristic name: Manhatten
+Number of steps: 78
+Nodes explored: 299
+Time spent: 34 (ms)
+Found path: true
+--------------------------------- 
+Puzzle size : 3 x 3
+Algorithm name: BestFirst
+Heuristic name: Manhatten
+Number of steps: 52
+Nodes explored: 134
+Time spent: 19 (ms)
+Found path: true
+--------------------------------- 
+Puzzle size : 3 x 3
+Algorithm name: HillClimb
+Heuristic name: Manhatten
+Number of steps: 50
+Nodes explored: 130
+Time spent: 13 (ms)
+Found path: true
+--------------------------------- 
+Puzzle size : 3 x 3
+Algorithm name: BestFirst
+Heuristic name: Manhatten
+Number of steps: 64
+Nodes explored: 233
+Time spent: 29 (ms)
+Found path: true
+--------------------------------- 
+Puzzle size : 4 x 4
+Algorithm name: HillClimb
+Heuristic name: Manhatten
+Number of steps: 236
+Nodes explored: 1130
+Time spent: 159 (ms)
+Found path: true
+--------------------------------- 
+Puzzle size : 4 x 4
+Algorithm name: BestFirst
+Heuristic name: Manhatten
+Number of steps: 266
+Nodes explored: 1847
+Time spent: 291 (ms)
+Found path: true
+--------------------------------- 
+Puzzle size : 4 x 4
+Algorithm name: HillClimb
+Heuristic name: Manhatten
+Number of steps: 202
+Nodes explored: 898
+Time spent: 129 (ms)
+Found path: true
+--------------------------------- 
+Puzzle size : 4 x 4
+Algorithm name: BestFirst
+Heuristic name: Manhatten
+Number of steps: 214
+Nodes explored: 3017
+Time spent: 463 (ms)
+Found path: true
+--------------------------------- 
+Puzzle size : 4 x 4
+Algorithm name: HillClimb
+Heuristic name: Manhatten
+Number of steps: 198
+Nodes explored: 897
+Time spent: 124 (ms)
+Found path: true
+--------------------------------- 
+Puzzle size : 4 x 4
+Algorithm name: BestFirst
+Heuristic name: Manhatten
+Number of steps: 222
+Nodes explored: 2314
+Time spent: 368 (ms)
+Found path: true
+--------------------------------- 
+Puzzle size : 5 x 5
+Algorithm name: HillClimb
+Heuristic name: Hamming
+Number of steps: 1424
+Nodes explored: 138612
+Time spent: 439 (ms)
+Found path: true
+--------------------------------- 
+Puzzle size : 6 x 6
+Algorithm name: HillClimb
+Heuristic name: Hamming
+Number of steps: 2516
+Nodes explored: 6510079
+Time spent: 58260 (ms)
+Found path: true
+--------------------------------- 

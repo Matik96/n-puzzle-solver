@@ -1,0 +1,21 @@
+.Board {
+    -fx-font: 20px Arial;
+    -fx-border-width: 1;
+    -fx-border-style: solid;
+    -fx-text-inner-color:black;
+    -fx-font-weight: bold;
+    -fx-background-size: 80px;
+}
+
+#fade-in {
+  height: 1px;
+  width: 80px;
+  opacity: 1;
+  transition: all 10s ease;
+}
+
+#fade-in.show {
+  opacity: 1;
+  height: 70px;
+  width: 70px;
+}
